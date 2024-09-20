@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexizumi
-- 👀 I’m interested in develop myself as a Network Engineer and SysOps
-- 🌱 I’m currently learning Python and blockchain
+- 👀 I’m interested in develop myself as a Full Stack Engineer
+- 🌱 I’m currently learning JavaScript, Python and Blockchain
 - 💞️ I’m looking to collaborate on any projects that will help me achieve my goals
 - 📫 you can get to know me a little more on https://www.linkedin.com/in/alexandre-izumi-0539912/
 
