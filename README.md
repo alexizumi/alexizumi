@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that will help me achieve my goals
 - 📫 you can get to know me a little more on [Linkedin](https://www.linkedin.com/in/alexizumi/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexizumi)](https://git.io/streak-stats)
 <!---
 alexizumi/alexizumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
